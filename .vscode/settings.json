@@ -1,0 +1,24 @@
+
+{
+    "search.exclude": {
+        "**/.fvm": true
+      },
+      // Remove from file watching
+      "files.watcherExclude": {
+        "**/.fvm": true
+      },
+      // "dart.flutterSdkPath": "C:\\src\\flutter",
+      "workbench.colorTheme": "Night Owl",
+       "dart.flutterSdkPath": "C:/Users/HP/fvm/versions/flutter_3.24.4",
+      "dart.sdkPath": "C:/Users/HP/fvm/versions/flutter_3.24.4/bin/cache/dart-sdk",
+      "dart.previewSdkDaps": null,
+      "java.configuration.updateBuildConfiguration": "automatic",
+      "terminal.integrated.env.osx": {
+        
+      },
+      "workbench.colorCustomizations": {
+        
+      },
+    }
+  
+  
